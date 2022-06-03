@@ -10,6 +10,7 @@
 - VSCode
 - Fastify 
 - Node.js
+- VSCode terminal and command line interface (CLI)
 
 ### Takeaways
 - Learned how to initialize a folder as a Node.js project and add Fastify package
